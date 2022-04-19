@@ -16,12 +16,6 @@
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
 - GitHub: [@githubhandle](https://github.com/darikmohammed)
 - LinkedIn: [LinkedIn](https://github.com/darikmohammed/blux-html-sass/blob/main/www.linkedin.com/in/darik-mohammed-57352120b)
 
